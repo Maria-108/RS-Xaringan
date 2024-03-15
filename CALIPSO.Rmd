@@ -13,7 +13,7 @@ output:
       highlightStyle: github
       highlightLines: true
       ratio: 16:9
-      countIncrementalSlides: true
+      countIncrementalSlides: true 
 ---
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
